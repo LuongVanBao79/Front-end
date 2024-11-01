@@ -2,6 +2,14 @@
 
 Repository (Repo)
 
+Branch
+
+Conflict xung dot
+
+Local
+Remote
+
+
 
 # Commands
 
@@ -12,4 +20,9 @@ Repository (Repo)
 - git commit
 - git log
 - git log --oneline
-- 
+- git checkout 
+- git branch
+- git checkout -b tennhanh
+- git merge
+- git branch -d {branch name}
+- git push
